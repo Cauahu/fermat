@@ -1,0 +1,16 @@
+#vscode
+.vscode
+.vscode/*
+
+#build
+build
+build/*
+buil
+build/*
+
+#ignore file
+.svn
+.BROC*
+.broc*
+.*~
+output/
